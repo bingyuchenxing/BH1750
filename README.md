@@ -1,18 +1,18 @@
 # BH1750
 makecode 的 BH1750 数字环境光强传感器 microbit 软件包
 
-作者: shaoziyang  
-日期: 2018.Mar  
+作者: 朱林  
+日期: 2018/4
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/BH1750_cn/master/icon.png)  
+![image](https://github.com/zhuning239/BH1750/blob/master/icon.png)  
   
-![](https://raw.githubusercontent.com/microbit-makecode-packages/BH1750_cn/master/GY-30.jpg)
+![image](https://github.com/zhuning239/BH1750/blob/master/GY-30.jpg)
 
 ## 使用方法
 
 打开 makecode 编辑器，在项目中选择添加软件包，然后在地址栏输入下面网址  
 
-https://github.com/microbit-makecode-packages/BH1750_cn  
+https://github.com/zhuning239/BH1750
 
 搜索后就可以添加并使用本软件包了。
 
@@ -36,17 +36,14 @@ to 是 BH1750 的I2C地址，它是 35 或 92
 
 ## 演示
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/BH1750_cn/master/demo.jpg)
+![image](https://github.com/zhuning239/BH1750/blob/master/demo.jpg)
 
 ## 授权方式
 
 MIT
 
-microbit/micropython 中文社区版权所有 (c) 2018  
+湖南创乐博智能科技有限公司
 
 ## 支持硬件
 
 * for PXT/microbit
-
-
-[来自 microbit/micropython 中文社区](http://www.micropython.org.cn) 
